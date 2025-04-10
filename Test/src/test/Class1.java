@@ -16,4 +16,6 @@ interface Class1 {
     
     public abstract void TEST();
 
+    //testing for adding comment
+
 }
