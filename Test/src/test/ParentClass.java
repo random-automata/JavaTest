@@ -9,6 +9,8 @@ package test;
  *
  * @author ario
  */
+
+//adding comment for testing git command
 import test.Test;
 public abstract class ParentClass implements Class1{
     public int id;

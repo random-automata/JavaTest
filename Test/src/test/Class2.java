@@ -9,5 +9,5 @@ package test;
  * @author ario
  */
 interface Class2 {
-    
+    public void getNama();
 }

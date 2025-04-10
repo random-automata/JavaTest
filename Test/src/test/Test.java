@@ -48,7 +48,9 @@ public abstract class Test extends ParentClass implements Class1, Class2{
         
     }
 
-
+    public void printDataMahasiswa(){
+        
+    }
     
     
     
